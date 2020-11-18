@@ -30,3 +30,5 @@ I'm still working on a few things, but here's some extra info for you.
 You can find your files in your Google Drive in the redsea folder then the downloads folder. (Drive/redsea/downloads) There should be a folder per link you entered named after the content.
 
 Advanced users could edit code to add options found in settings.py
+
+Advanced users who use Tidal Desktop can follow the method [here]() to find out where to get your oAuth tokens and use those with a mobile (```m```) session.
