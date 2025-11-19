@@ -8,7 +8,7 @@ It is made to work with [Google Colaboratory](https://colab.google.com/) and dow
 
 You will need access to a Google account to use this project. You can create one by visiting the [GMail Website](https://www.gmail.com/) if you don't already have one.
 
-When you're ready, open the .ipynb file [located in RedSea/RedSea.ipynb]([https://github.com/burntscarr/RedSea/blob/main/RedSea.ipynb](https://github.com/burntscarr/RedSea-Google-Colab/blob/main/RedSea.ipynb) and click the link up top.
+When you're ready, open the .ipynb file [located in RedSea/RedSea.ipynb]([https://github.com/burntscarr/RedSea/blob/main/RedSea.ipynb) and click the link up top.
 
 ## Begin Setup
 * Open [the Colab Notebook](https://colab.research.google.com/github/burntscarr/RedSea-Google-Colab/blob/main/RedSea.ipynb) - If you have multiple Google Accounts, choose the one you want to use from the top right (profile picture area).
